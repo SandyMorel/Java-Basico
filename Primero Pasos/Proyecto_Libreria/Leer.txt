@@ -1,0 +1,2 @@
+Este proyecto se basa en un software destinado para el manejo de los prestamos de libros
+ de una bilbioteca y el registro de sus clietnes y usuarios. 
